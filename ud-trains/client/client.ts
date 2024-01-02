@@ -25,7 +25,7 @@ type Vector3 = {
 
 const stations: TrainStation[] = [
     { node: 179, name: "Strawberry" },
-	{ node: 271,  name: "Puerto Del Sol" },
+    { node: 271,  name: "Puerto Del Sol" },
     { node: 388,  name: "LSIA Parking" },
     { node: 434,  name: "LSIA Terminal 4" },
     { node: 530,  name: "LSIA Terminal 4" },
